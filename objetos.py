@@ -26,12 +26,13 @@ class Dedo():
     longitud=""
     forma=""
     color=""
+    tamanio="Grande"
 
 class Pie(object):
     forma = ""
     color = ""
     dedos = Dedo()
 
-class NuevoObjeto()
-    pie()=""
-    dedo()="pequeño"
+class NuevoObjeto():
+    pie=Pie()
+    pequeño=Dedo()
